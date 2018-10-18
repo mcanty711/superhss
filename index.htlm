@@ -1,0 +1,134 @@
+<!DOCTYPE html5>
+<!-- This is for the Super Health Store website -->
+<html>
+<head>
+  <title>Super Health Store</title>
+
+   <link href="css/styles.css" type="text/css"
+      rel="stylesheet" /> 
+
+</head>
+
+<body bgcolor="silver" text="navy">
+  <h1 id="top">SUPER HEALTH STORE &copy</h1>
+
+  
+   
+  <ul class="inline">
+    <li id="home"><a href="index.html">Home</a></li>
+    <li id="home"><a href="Health Store.html">Second Page</a></li>
+  </ul>
+  </p>
+ 
+  <table>
+  <tr>
+    <td align="center">
+    <p>
+    <img src="herbal medicine logo.jpg" alt="green leaf mortar 
+      & pestle" title="The green leaf mortar and pestle represent a more
+      holistic approach to health" width="250" height="250"/>
+    <br>
+    <h2>Super Health Store</h2>
+    </p>
+    </td>
+  
+    <td>
+    <p>
+    <h3>Super Health Store</h3>
+    <ul id="star">
+    <li><b>Provide Superior Health <i>Products</i></b></li>
+    <li>The 1<sup>st</sup> place to shop for holistic products</li>
+    <li>The clear choice for alkine water (H<sub>2</sub>0)</li>
+	<ul>
+    	  <li>Alkiline water is credited with being anti-aging</li>
+	</ul>
+    <li>Supplemental products at a lower cost
+    </ul>
+    <br /><hr /><br />
+    <ol id="moreinfo"> 
+      <li>Mail order your holistic supplements</li>
+      <li>Order a 6 month supply and get a month free</li>
+      <li>We also offer products for skin and hair</li>
+    </ol>
+    </p>
+    </td>
+  </tr>
+  </table>
+
+<p class="explain">
+<span class="explanation"> 
+We are based out of the <strong>tri-county</strong> Metropolitan <em>Detroit</em> 
+area. </span> Our mission is <u>provide</u> customers with a better and more informed 
+choice when it comes to deciding on heathy holistic products for their 
+body. We have <s>stores</s> and a website for your convenience to make your
+purchase of our list of products. After reading <cite>The Pill Box</cite> by 
+Harold M. Silverman and reading all the possible side effects from conventional
+medicine, I decided to create this website to provide consumers with a more
+natural approach when it comes to healing and staying healthy. A <dfn>side effect
+</dfn> is the bodies reaction to an unatural substance ingested into the blood
+stream of the body.  <!-- inline equivalent to div element -->
+</p>
+<dl>
+  <dt>Less Serious Side Effects -</dt>
+  <dd>- may include: drowsiness, dizziness, feeling tired or irritable; blurred 
+      vision, headache, memory problems, trouble concentrating; insomnia);</dd>
+  <dt>More Serious Side Effects -</dt>
+  <dd>- may inclued: fast, pounding, or uneven heartbeats; feelings of extreme 
+      happiness or sadness; tremors, hallucinations, unusual behavior, 
+      or motor tics (muscle twitches); dangerously high blood pressure 
+      (severe headache, buzzing in your ears, anxiety, confusion, chest pain, 
+      shortness of breath, uneven heartbeats, seizure);</dd>
+<br />
+
+<script type="text/javascript"
+  src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+  <script type="text/javascript">
+    swfobject.embedSWF("flash/bird.swf", "bird", "400", "300", "8.0.0");</script>
+  <div id="bird"><p>An animation of a bird taking a shower</p></div>
+
+
+<br />
+
+<div class="paragraph1">
+  <h1>Smoking Cigarettes and Side Effects</h1>
+  <p>No matter how you smoke it, tobacco is dangerous to your health. There are 
+no safe substances in any tobacco products, from acetone and tar to nicotine and 
+carbon monoxide. The substances you inhale don't just affect your lungs. They 
+can affect your entire body.
+Smoking can lead to a variety of ongoing complications in the body, as well as 
+long-term effects on your body systems. While smoking can increase your risk of a
+ variety of problems over several years, some of the bodily effects are 
+immediate. </p>
+</div>
+<div class="paragraph2">
+  <h1>The Best Home Remedies to Quit Smoking</h1>
+  <p class="clear">While it can be very difficult to give up smoking, there are a number of 
+effective ways to do so. And some of the best ones can actually be found in your 
+own home. You don't have to pay for expensive medicines or patches to try to 
+counter the nicotine cravings. Instead, you can use items commonly found around 
+your house to help you conquer your addiction.
+  <li>Water - detoxifier</li>
+  <li>Ginger - nauseous</li>
+  <li>Vitamins - restoration</li>
+  <li>Ginseng - Cravings</li>
+  <li>Grape Juice - detoxifier</li>
+</p>
+</div>
+<br />
+<p class="clear">
+Contact us at:  <address>313-728-1100 <br />
+<a href="mailto:marcusjcanty@gmail.com" target="_blank">marcusjcanty@gmail.com</a><br />
+PO Box, Detroit, Michigan 48201.</address>
+<br>
+We are <del>registered</del> <ins>accredited</ins> with the 
+<abbr title="Better Business Bureau">BBB</abbr> 
+<a href="http://www.bbb.com" target="_blank">Better Business Bureau</a>
+</p>
+<br />
+<div>
+<a href="#top">Back to Top</a></p>
+<p><a href="http://www.marcusjcanty.com/#bottom" target="_blank">
+	Marcus J Canty Website</a></p>
+</div>
+</body>
+</html>   
