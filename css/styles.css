@@ -1,0 +1,95 @@
+/* Anything between these symbols will not be interpreted by the browser */
+body {
+	font-family: arial;
+	background-color: rgb(200,200,200);}
+h1#top {
+	color: blue;
+	background-color: red;
+	text-align: center;}
+
+li#home {
+  display: inline;
+  margin-right: 10px;
+  }
+
+/* ul#star {
+  list-style-image: url("../bullet point star.jpg");
+} */
+
+ol#moreinfo {
+  list-style-type: upper-roman;}
+
+p#main {
+	font-family: Comic Sans MS;
+	color: purple;
+	background-color: white;
+	font-size: 15px}
+
+input {
+				padding: 6px 12px 6px 12px;
+				border: 1px solid #665544;
+				color: blue;}
+			input.submit:hover {
+				background-color: #665544;}
+			input.submit:active {
+				background-color: chocolate;}
+			input.text {
+				color: #cccccc;}
+			input.text:focus {
+				color:#665544;}
+
+p.explain:first-letter {
+  font-size: 150%;}
+
+p.explain{
+  height: 240px;
+  width: 410px;
+  background-color: yellow;
+  border-style: solid;
+  border-width: 2px;
+  border-color: red;
+  text-align: justify;
+  line-height: 1.2em;
+  padding: 10px;
+  margin: 10px auto 10px auto;
+  border-radius: 10px;}
+
+/*Table*/
+tbody {
+  font-family: Arial, Verdana, sans-serif;
+  color: green;}
+
+table {
+  width: 700px;}
+th, td {
+  padding: 7px 10px 10px 10px;}
+th {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 90%;
+  border-bottom: 2px solid #111111;
+  border-top: 1px solid #999;
+  text-align: left;}
+tr.even {
+  background-color: #efefef;}
+tr:hover {
+  background-color: #c3e6e5;}
+.money {
+  text-align: right;}
+tr.footer td {
+  
+  border-bottom: 2px solid #111111;
+  border-top: 1px solid #111111;}
+div.paragraph1 {
+  float: left;
+  width: 620px;
+  margin: 10px;
+  }
+div.paragraph2 {
+  float: left;
+  width: 320px;
+  margin: 10px;
+}
+.clear {
+  clear: left;
+} 
